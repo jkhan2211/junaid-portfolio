@@ -3,6 +3,5 @@
 A web portfolio with all my work experienced showcase. Currently working for a consultation company, I imagined that having a portfolio would be a best way to represent my past work. This project is done in React
 #### Sanity – is a platform for structured content that lets you build better digital experiences. 
 Simple and fun to have a backend setup
-#### JavaScript Mastery Subscriber can use this from the following link: 
-https://www.sanity.io/javascriptmastery2022
+
 
