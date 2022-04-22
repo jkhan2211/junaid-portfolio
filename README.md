@@ -4,4 +4,6 @@ A web portfolio with all my work experienced showcase. Currently working for a c
 #### Sanity – is a platform for structured content that lets you build better digital experiences. 
 Simple and fun to have a backend setup
 
+### To check out this website
+Please click here: 
 
